@@ -1,0 +1,17 @@
+#logoHorus {
+  margin-right: 20px;
+}
+
+.navbar-brand {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 800;
+  color: #EFEFEF;
+}
+
+.navbar-about {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 700;
+  color: #FF3B3F;
+  text-decoration: none;
+  font-size: 1.2em;
+}

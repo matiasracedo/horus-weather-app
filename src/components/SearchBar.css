@@ -1,0 +1,12 @@
+.searchBar {
+    background-color: #EFEFEF;
+    border-color: #FF3B3F;
+}
+
+.boton {
+    background-color: #FF3B3F;
+    border-color: #FF3B3F;
+    color: #EFEFEF;
+    font-family: 'Work Sans', sans-serif;
+    margin-left: 10px;
+}
